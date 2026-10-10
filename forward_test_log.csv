@@ -81,3 +81,6 @@ logged_at,date,symbol,strategy,direction,valid,reason,entry,stop,r_multiple
 2026-10-09T04:47:52.555109+02:00,2026-10-08,ES=F,orb_zarattini,long,True,,7832.25,7823.5,-1.05
 2026-10-09T04:47:52.874301+02:00,2026-10-08,NQ=F,caja_zcoin,long,False,Ruptura sin confirmación de volumen (4934 < 1.2x promedio caja 4798),31275.5,31156.25,
 2026-10-09T04:47:52.905842+02:00,2026-10-08,NQ=F,orb_zarattini,long,True,,31275.5,31196.0,-1.05
+2026-10-10T04:05:38.847526+02:00,2026-10-09,ES=F,caja_zcoin,long,True,,7847.75,7826.75,0.795
+2026-10-10T04:05:38.874696+02:00,2026-10-09,ES=F,orb_zarattini,long,True,,7844.0,7835.75,2.162
+2026-10-10T04:05:39.213959+02:00,2026-10-09,NQ=F,orb_zarattini,short,True,,31113.0,31180.0,-0.057
