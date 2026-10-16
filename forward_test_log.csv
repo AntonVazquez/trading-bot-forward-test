@@ -95,3 +95,7 @@ logged_at,date,symbol,strategy,direction,valid,reason,entry,stop,r_multiple
 2026-10-15T03:13:04.211779+02:00,2026-10-14,ES=F,orb_zarattini,long,True,,7830.0,7819.25,-1.05
 2026-10-15T03:13:04.629153+02:00,2026-10-14,NQ=F,caja_zcoin,short,False,Ruptura sin confirmación de volumen (7507 < 1.2x promedio caja 9157),30465.75,30852.75,
 2026-10-15T03:13:04.660148+02:00,2026-10-14,NQ=F,orb_zarattini,none,False,Vela de apertura fue un doji (open==close),,,
+2026-10-16T03:00:24.551197+02:00,2026-10-15,ES=F,caja_zcoin,long,False,Ruptura sin confirmación de volumen (18367 < 1.2x promedio caja 17467),7753.25,7717.25,
+2026-10-16T03:00:24.567658+02:00,2026-10-15,ES=F,orb_zarattini,short,True,,7726.5,7740.0,-1.05
+2026-10-16T03:00:24.920001+02:00,2026-10-15,NQ=F,caja_zcoin,long,False,Ruptura sin retest dentro de la ventana de 2h,29859.5,29622.5,
+2026-10-16T03:00:24.939438+02:00,2026-10-15,NQ=F,orb_zarattini,short,True,,29684.25,29787.75,-1.05
