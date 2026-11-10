@@ -158,3 +158,7 @@ logged_at,date,symbol,strategy,direction,valid,reason,entry,stop,r_multiple
 2026-11-06T04:11:18.977948+01:00,2026-11-05,NQ=F,orb_zarattini,short,True,,27976.25,28228.25,5.031
 2026-11-07T03:32:33.934352+01:00,2026-11-06,ES=F,orb_zarattini,long,True,,7411.0,7392.0,-0.563
 2026-11-07T03:32:34.094002+01:00,2026-11-06,NQ=F,orb_zarattini,short,True,,27055.25,27192.25,-1.05
+2026-11-10T05:30:00.216304+01:00,2026-11-09,ES=F,caja_zcoin,long,True,,7531.25,7455.75,0.263
+2026-11-10T05:30:00.231007+01:00,2026-11-09,ES=F,orb_zarattini,long,True,,7482.5,7455.75,3.399
+2026-11-10T05:30:00.605749+01:00,2026-11-09,NQ=F,caja_zcoin,long,False,Ruptura sin retest dentro de la ventana de 2h,27797.5,27268.0,
+2026-11-10T05:30:00.620272+01:00,2026-11-09,NQ=F,orb_zarattini,long,True,,27476.25,27316.25,3.35
