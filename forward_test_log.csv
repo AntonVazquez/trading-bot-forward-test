@@ -181,3 +181,7 @@ logged_at,date,symbol,strategy,direction,valid,reason,entry,stop,r_multiple
 2026-11-17T05:57:25.605409+01:00,2026-11-16,ES=F,orb_zarattini,short,True,,7511.5,7538.75,2.592
 2026-11-17T05:57:26.011094+01:00,2026-11-16,NQ=F,caja_zcoin,short,True,,27429.0,27716.25,0.183
 2026-11-17T05:57:26.021095+01:00,2026-11-16,NQ=F,orb_zarattini,short,True,,27505.0,27675.75,-1.05
+2026-11-18T05:01:52.111155+01:00,2026-11-17,ES=F,caja_zcoin,short,True,,7413.5,7440.5,1.316
+2026-11-18T05:01:52.139645+01:00,2026-11-17,ES=F,orb_zarattini,short,True,,7415.5,7428.25,-1.05
+2026-11-18T05:01:52.556501+01:00,2026-11-17,NQ=F,caja_zcoin,short,True,,27197.0,27424.0,0.546
+2026-11-18T05:01:52.580577+01:00,2026-11-17,NQ=F,orb_zarattini,short,True,,27244.75,27342.5,-1.05
