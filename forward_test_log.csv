@@ -193,3 +193,7 @@ logged_at,date,symbol,strategy,direction,valid,reason,entry,stop,r_multiple
 2026-11-20T04:52:03.540076+01:00,2026-11-19,ES=F,orb_zarattini,long,False,El precio nunca rompió el rango de apertura en el sentido del sesgo,7436.5,7410.25,
 2026-11-20T04:52:03.854880+01:00,2026-11-19,NQ=F,caja_zcoin,short,False,Ruptura sin retest dentro de la ventana de 2h,27620.0,27838.0,
 2026-11-20T04:52:03.880082+01:00,2026-11-19,NQ=F,orb_zarattini,long,True,,27826.25,27643.0,-1.05
+2026-11-21T04:45:09.020999+01:00,2026-11-20,ES=F,caja_zcoin,short,True,,7105.0,7216.75,0.558
+2026-11-21T04:45:09.033680+01:00,2026-11-20,ES=F,orb_zarattini,short,True,,7149.0,7171.0,-1.05
+2026-11-21T04:45:09.356775+01:00,2026-11-20,NQ=F,caja_zcoin,short,True,,26000.0,26504.25,0.598
+2026-11-21T04:45:09.365662+01:00,2026-11-20,NQ=F,orb_zarattini,short,True,,26162.25,26323.0,-1.05
